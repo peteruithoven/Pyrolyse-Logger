@@ -1,0 +1,4 @@
+Log 2010-12-10 19.51.34
+counter	temp	goal	relay	energy
+
+(Properly stopped)

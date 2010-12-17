@@ -1,0 +1,6 @@
+counter	temp	goal	relay	energy
+0	0	0	0	0
+0	0	0	0	0
+0	0	0	0	0
+
+(Properly stopped)
